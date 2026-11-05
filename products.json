@@ -1,7 +1,7 @@
 [
   {
     "id": "ep01",
-    "date": "2026-11-05",
+    "date": "2026-11-04",
     "title": "1편 · 양가 김장이 같은 날, 어디 먼저 가요?",
     "category": "김장·김치",
     "thumb": "thumbs/ep01.jpg",
@@ -12,6 +12,20 @@
       "포기김치",
       "시댁",
       "친정"
+    ]
+  },
+  {
+    "id": "ep02",
+    "date": "2026-11-05",
+    "title": "2편 · 9시 반 육퇴. 떡볶이 딱 기다려",
+    "category": "야식",
+    "thumb": "thumbs/ep02.jpg",
+    "product": "석관동떡볶이 오리지날맛(밀떡) 2개",
+    "url": "https://link.coupang.com/a/ioUJrW4nh6",
+    "tags": [
+      "육퇴",
+      "야식",
+      "떡볶이"
     ]
   }
 ]
